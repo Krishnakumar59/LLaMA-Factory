@@ -74,7 +74,7 @@
     "hf_hub_url": "llamafactory/lima",
     "formatting": "sharegpt"
   },
-    "devops_QA": {
+  "devops_QA": {
     "hf_hub_url": "RazinAleks/SO-Python_QA-System_Administration_and_DevOps_class",
     "formatting": "sharegpt"
   },

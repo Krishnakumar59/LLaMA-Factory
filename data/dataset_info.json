@@ -74,6 +74,10 @@
     "hf_hub_url": "llamafactory/lima",
     "formatting": "sharegpt"
   },
+    "devops_QA": {
+    "hf_hub_url": "RazinAleks/SO-Python_QA-System_Administration_and_DevOps_class",
+    "formatting": "sharegpt"
+  },
   "guanaco": {
     "hf_hub_url": "JosephusCheung/GuanacoDataset",
     "ms_hub_url": "AI-ModelScope/GuanacoDataset"
